@@ -7,7 +7,6 @@ provided the sum of the weight of those people is at most limit.
 Return the minimum number of boats to carry every given person.
 */
 
-
 // Approach:
 // 1) Sort given vector in ascending order of weight
 // 2) Get left and right of the vector and loop until left <= right
