@@ -47,7 +47,7 @@ impl Solution {
             for j in 1..grid[0].len()-1 {
                 if grid[i][j] == 0 {
                     if terraform(&mut grid,i,j) {
-                        islands+=1;
+                        islands += 1;
                     }
                 }
             }
