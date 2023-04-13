@@ -94,6 +94,19 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Pascal's Triangle
       </td>
     </tr>
+    <tr>
+      <td>13/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/36.rs">Leetcode#36</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/74.rs">Leetcode#74</a> 
+      </td>
+	  <td>
+      Valid Sudoku
+      <br>
+      Search a 2D Matrix
+      </td>
+    </tr>
 </table>
 
 </details>
