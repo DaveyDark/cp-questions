@@ -107,6 +107,23 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Search a 2D Matrix
       </td>
     </tr>
+    <tr>
+      <td>14/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/36.rs">Leetcode#242</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/74.rs">Leetcode#383</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/74.rs">Leetcode#387</a>
+      </td>
+	  <td>
+      Valid Anagram
+      <br>
+      Ransom Note
+      <br>
+      First Unique Character in String
+      </td>
+    </tr>
 </table>
 
 </details>
