@@ -110,11 +110,11 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
     <tr>
       <td>14/04/2023</td>
       <td>
-      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/36.rs">Leetcode#242</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/242.rs">Leetcode#242</a> 
       <br>
-      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/74.rs">Leetcode#383</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/383.rs">Leetcode#383</a> 
       <br>
-      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/74.rs">Leetcode#387</a>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/387.rs">Leetcode#387</a>
       </td>
 	  <td>
       Valid Anagram
@@ -122,6 +122,36 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Ransom Note
       <br>
       First Unique Character in String
+      </td>
+    </tr>
+    <tr>
+      <td>15/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/141.cpp">Leetcode#141</a> 
+      </td>
+	  <td>
+      Linked List Cycle
+      </td>
+    </tr>
+    <tr>
+      <td>16/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/203.cpp">Leetcode#203</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/206.cpp">Leetcode#206</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/21.cpp">Leetcode#21</a>
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/83.cpp">Leetcode#83</a>
+      </td>
+	  <td>
+      Remove Linked List Elements
+      <br>
+      Reverse Linked List
+      <br>
+      Merge Two Sorted Lists
+      <br>
+      Remove Duplicates from Sorted List
       </td>
     </tr>
 </table>
