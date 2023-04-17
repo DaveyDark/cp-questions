@@ -154,6 +154,19 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Remove Duplicates from Sorted List
       </td>
     </tr>
+    <tr>
+      <td>17/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/20.rs">Leetcode#20</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/232.rs">Leetcode#232</a> 
+      </td>
+      <td>
+      Valid Parentheses
+      <br>
+      Implement Queue using Stacks
+      </td>
+    </tr>
 </table>
 
 </details>
