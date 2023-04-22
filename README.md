@@ -167,6 +167,91 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Implement Queue using Stacks
       </td>
     </tr>
+    <tr>
+      <td>18/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/144.cpp">Leetcode#144</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/94.cpp">Leetcode#94</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/145.cpp">Leetcode#145</a>
+      </td>
+	  <td>
+      Binary Tree Preorder Traversal
+      <br>
+      Binary Tree Inorder Traversal
+      <br>
+      Binary Tree Postorder Traversal
+      </td>
+    </tr>
+    <tr>
+      <td>19/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/102.cpp">Leetcode#102</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/104.cpp">Leetcode#104</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/101.cpp">Leetcode#101</a>
+      </td>
+	  <td>
+      Binary Tree Level Order Traversal
+      <br>
+      Maximum Depth of Binary Tree
+      <br>
+      Symmetric Tree
+      </td>
+    </tr>
+    <tr>
+      <td>20/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/112.cpp">Leetcode#112</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/226.cpp">Leetcode#226</a> 
+      </td>
+      <td>
+      Path Sum
+      <br>
+      Invert Binary Tree
+      </td>
+    </tr>
+    <tr>
+      <td>21/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/700.cpp">Leetcode#701</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/701.cpp">Leetcode#700</a> 
+      </td>
+      <td>
+      Search in a Binary Search Tree
+      <br>
+      Insert into a Binary Search Tree
+      </td>
+    </tr>
+    <tr>
+      <td>22/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/98.cpp">Leetcode#98</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/653.cpp">Leetcode#653</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/255.cpp">Leetcode#255</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/278.rs">Leetcode#278</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/35.rs">Leetcode#35</a> 
+      </td>
+      <td>
+      Validate Binary Search Tree
+      <br>
+      Two Sum IV - Input is a BST
+      <br>
+      Lowest Common Ancestor of Binary Search Tree
+      <br>
+      First Bad Version
+      <br>
+      Search Insert Position
+      </td>
+    </tr>
 </table>
 
 </details>
