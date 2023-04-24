@@ -252,6 +252,32 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Search Insert Position
       </td>
     </tr>
+    <tr>
+      <td>23/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/977.rs">Leetcode#977</a> 
+      </td>
+      <td>
+      Squares of a Sorted Array
+      </td>
+    </tr>
+    <tr>
+      <td>24/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/189.rs">Leetcode#189</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/283.rs">Leetcode#283</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/167.rs">Leetcode#167</a> 
+      </td>
+      <td>
+      Rotate Array
+      <br>
+      Move Zeroes
+      <br>
+      Two Sum II - Array is Sorted
+      </td>
+    </tr>
 </table>
 
 </details>
