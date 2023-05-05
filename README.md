@@ -278,6 +278,167 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Two Sum II - Array is Sorted
       </td>
     </tr>
+    <tr>
+      <td>25/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/344.java">Leetcode#344</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/557.java">Leetcode#557</a> 
+      </td>
+      <td>
+      Reverse String
+      <br>
+      Reverse Words in a String III
+      </td>
+    </tr>
+    <tr>
+      <td>26/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/876.cpp">Leetcode#876</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/19.cpp">Leetcode#19</a> 
+      </td>
+      <td>
+      Middle of Linked List
+      <br>
+      Remove Nth Node from End of List
+      </td>
+    </tr>
+    <tr>
+      <td>27/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/3.rs">Leetcode#3</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/567.rs">Leetcode#567</a> 
+      </td>
+      <td>
+      Longest Substring Without Repeating Characters
+      <br>
+      Permutation in String
+      </td>
+    </tr>
+    <tr>
+      <td>28/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/733.rs">Leetcode#733</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/695.rs">Leetcode#695</a> 
+      </td>
+      <td>
+      Flood Fill
+      <br>
+      Max Area of Island
+      </td>
+    </tr>
+    <tr>
+      <td>29/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/618.cpp">Leetcode#618</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/116.cpp">Leetcode#116</a> 
+      </td>
+      <td>
+      Merge Two Binary Trees
+      <br>
+      Populating Next Right Pointers in Each Node
+      </td>
+    </tr>
+    <tr>
+      <td>30/04/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/542.rs">Leetcode#542</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/994.rs">Leetcode#994</a> 
+      </td>
+      <td>
+      01 Matrix
+      <br>
+      Rotting Oranges
+      </td>
+    </tr>
 </table>
 
 </details>
+<details>
+<summary><h2>May 2023</h2></summary>
+<table>
+    <tr>
+      <th>Date</th>
+      <th>Question Numbers</th>
+      <th>Question Names</th>
+    </tr>
+    <tr>
+      <td>01/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/21.cpp">Leetcode#21</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/206.cpp">Leetcode#206</a> 
+      </td>
+      <td>
+      Merge Two Sorted Lists
+      <br>
+      Reverse Linked List
+      </td>
+    </tr>
+    <tr>
+      <td>02/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/77.rs">Leetcode#77</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/46.rs">Leetcode#46</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/784.rs">Leetcode#784</a> 
+      </td>
+      <td>
+      Combinations
+      <br>
+      Permutations
+      <br>
+      Letter Case Permutation
+      </td>
+    </tr>
+    <tr>
+      <td>03/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/70.rs">Leetcode#70</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/198.rs">Leetcode#198</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/20.rs">Leetcode#20</a> 
+      </td>
+      <td>
+      Climbing Stairs
+      <br>
+      House Robber
+      <br>
+      Triangle
+      </td>
+    </tr>
+    <tr>
+      <td>04/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/231.rs">Leetcode#231</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/191.rs">Leetcode#191</a> 
+      </td>
+      <td>
+      Power of Two
+      <br>
+      Number of 1 Bits
+      </td>
+    </tr>
+    <tr>
+      <td>05/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/190.rs">Leetcode#190</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/136.rs">Leetcode#136</a> 
+      </td>
+      <td>
+      Reverse Bits
+      <br>
+      Single Number
+      </td>
+    </tr>
+</details>
+
