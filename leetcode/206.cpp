@@ -21,6 +21,7 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 
 #include <stack>
 
+// Iterative Approach
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
@@ -39,5 +40,20 @@ public:
         }
         node->next = nullptr;
         return head;
+    }
+};
+
+// Recursive Approach
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        if (head == nullptr || head->next == nullptr) {
+            return head;
+        }
+    
+        ListNode* new_head = reverseList(head->next);
+        head->next->next = head;
+        head->next = nullptr;
+        return new_head;
     }
 };
