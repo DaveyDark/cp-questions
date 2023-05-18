@@ -440,5 +440,118 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Single Number
       </td>
     </tr>
+    <tr>
+      <td>06/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2667.ts">Leetcode#2667</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2620.ts">Leetcode#2620</a> 
+      </td>
+      <td>
+      Create Hello World Function
+      <br>
+      Counter
+      </td>
+    </tr>
+    <tr>
+      <td>07/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2665.ts">Leetcode#2665</a> 
+      </td>
+      <td>
+      Counter II
+      </td>
+    </tr>
+    <tr>
+      <td>08/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2635.ts">Leetcode#2635</a> 
+      </td>
+      <td>
+      Apply Transform Over Each Element in Array
+      </td>
+    </tr>
+    <tr>
+      <td>09/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2634.ts">Leetcode#2634</a> 
+      </td>
+      <td>
+      Filter Elements from Array
+      </td>
+    </tr>
+    <tr>
+      <td>10/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2626.ts">Leetcode#2626</a> 
+      </td>
+      <td>
+      Array Reduce Transformation
+      </td>
+    </tr>
+    <tr>
+      <td>11/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2629.ts">Leetcode#2629</a> 
+      </td>
+      <td>
+      Function Composition
+      </td>
+    </tr>
+    <tr>
+      <td>12/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2666.ts">Leetcode#2666</a> 
+      </td>
+      <td>
+      Allow One Function Call
+      </td>
+    </tr>
+    <tr>
+      <td>13/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2623.ts">Leetcode#2623</a> 
+      </td>
+      <td>
+      Memoize
+      </td>
+    </tr>
+    <tr>
+      <td>14/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2632.ts">Leetcode#2632</a> 
+      </td>
+      <td>
+      Curry
+      </td>
+    </tr>
+    <tr>
+      <td>15/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2621.ts">Leetcode#2621</a> 
+      </td>
+      <td>
+      Sleep
+      </td>
+    </tr>
+    <tr>
+      <td>16/05/2023</td>
+      <td>
+      -
+      </td>
+      <td>
+      -
+      </td>
+    </tr>
+   <tr>
+      <td>17/05/2023</td>
+      <td>
+      - 
+      </td>
+      <td>
+      -
+      </td>
+    </tr>
+	
 </details>
 
