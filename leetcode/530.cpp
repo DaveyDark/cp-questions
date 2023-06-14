@@ -4,7 +4,7 @@ Given the root of a Binary Search Tree (BST), return the minimum absolute differ
 */
 
 // Approach:
-// 1) We first traverse the given tree and sort the returned vector
+// 1) We first traverse the given tree inorfer, which returns a sorted vector of the elements since it is a binary search tree
 // 2) Then we go over the vector and subtract adjacent elements, and store the minimum difference in min_diff
 // 3) Then we return min_diff at the end
 
@@ -23,14 +23,13 @@ class Solution {
 public:
     void traverse(TreeNode *node, std::vector<int> *vec){
         if(!node)return;
-        vec->push_back(node->val);
         if(node->left)traverse(node->left,vec);
+        vec->push_back(node->val);
         if(node->right)traverse(node->right,vec);
     }
     int getMinimumDifference(TreeNode* root) {
         std::vector<int> vec;
         traverse(root,&vec);
-        sort(vec.begin(), vec.end()); 
         int min_diff = INT_MAX;
         for (int i = 1; i < vec.size(); i++)
             min_diff = min(vec[i] - vec[i-1], min_diff);
