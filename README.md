@@ -11,36 +11,43 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <th>Date</th>
       <th>Question Numbers</th>
       <th>Question Names</th>
+      <th>Languages</th>
     </tr>
     <tr>
       <td>03/04/2023</td>
       <td><a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/881.rs">Leetcode#881</a> </td>
       <td>Boats to Save People</td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>04/04/2023</td>
       <td><a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2405.rs">Leetcode#2405</a> </td>
       <td>Optimal Partition of String</td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>05/04/2023</td>
       <td><a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2300.rs">Leetcode#2300</a> </td>
       <td>Successful Pairs of Spells and Potions</td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>06/04/2023</td>
       <td><a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1254.rs">Leetcode#1254</a> </td>
       <td>Number of Closed Islands</td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>07/04/2023</td>
       <td><a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1020.rs">Leetcode#1020</a> </td>
       <td>Number of Enclaves</td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>08/04/2023</td>
       <td><a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/704.rs">Leetcode#704</a> </td>
       <td>Binary Search</td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>09/04/2023</td>
@@ -54,6 +61,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Maximum Subarray
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>10/04/2023</td>
@@ -67,6 +75,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Merge Sorted Array
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>11/04/2023</td>
@@ -80,6 +89,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Intersection of Two Arrays II
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>12/04/2023</td>
@@ -93,6 +103,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Pascal's Triangle
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>13/04/2023</td>
@@ -106,6 +117,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Search a 2D Matrix
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>14/04/2023</td>
@@ -123,6 +135,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       First Unique Character in String
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>15/04/2023</td>
@@ -132,6 +145,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
 	  <td>
       Linked List Cycle
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>16/04/2023</td>
@@ -153,6 +167,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Remove Duplicates from Sorted List
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>17/04/2023</td>
@@ -166,6 +181,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Implement Queue using Stacks
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>18/04/2023</td>
@@ -183,6 +199,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Binary Tree Postorder Traversal
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>19/04/2023</td>
@@ -200,6 +217,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Symmetric Tree
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>20/04/2023</td>
@@ -213,6 +231,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Invert Binary Tree
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>21/04/2023</td>
@@ -226,6 +245,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Insert into a Binary Search Tree
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>22/04/2023</td>
@@ -251,6 +271,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Search Insert Position
       </td>
+      <td>C++, Rust</td>
     </tr>
     <tr>
       <td>23/04/2023</td>
@@ -260,6 +281,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Squares of a Sorted Array
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>24/04/2023</td>
@@ -277,6 +299,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Two Sum II - Array is Sorted
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>25/04/2023</td>
@@ -290,6 +313,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Reverse Words in a String III
       </td>
+      <td>Java</td>
     </tr>
     <tr>
       <td>26/04/2023</td>
@@ -303,6 +327,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Remove Nth Node from End of List
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>27/04/2023</td>
@@ -316,6 +341,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Permutation in String
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>28/04/2023</td>
@@ -329,6 +355,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Max Area of Island
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>29/04/2023</td>
@@ -342,6 +369,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Populating Next Right Pointers in Each Node
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>30/04/2023</td>
@@ -355,6 +383,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Rotting Oranges
       </td>
+      <td>Rust</td>
     </tr>
 </table>
 
@@ -366,6 +395,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <th>Date</th>
       <th>Question Numbers</th>
       <th>Question Names</th>
+      <th>Languages</th>
     </tr>
     <tr>
       <td>01/05/2023</td>
@@ -379,6 +409,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Reverse Linked List
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>02/05/2023</td>
@@ -396,6 +427,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Letter Case Permutation
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>03/05/2023</td>
@@ -413,6 +445,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Triangle
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>04/05/2023</td>
@@ -426,6 +459,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Number of 1 Bits
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>05/05/2023</td>
@@ -439,6 +473,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Single Number
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>06/05/2023</td>
@@ -452,6 +487,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Counter
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>07/05/2023</td>
@@ -461,6 +497,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Counter II
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>08/05/2023</td>
@@ -470,6 +507,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Apply Transform Over Each Element in Array
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>09/05/2023</td>
@@ -479,6 +517,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Filter Elements from Array
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>10/05/2023</td>
@@ -488,6 +527,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Array Reduce Transformation
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>11/05/2023</td>
@@ -497,6 +537,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Function Composition
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>12/05/2023</td>
@@ -506,6 +547,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Allow One Function Call
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>13/05/2023</td>
@@ -515,6 +557,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Memoize
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>14/05/2023</td>
@@ -524,6 +567,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Curry
       </td>
+      <td>TypeScript</td>
     </tr>
     <tr>
       <td>15/05/2023</td>
@@ -531,6 +575,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2621.ts">Leetcode#2621</a> 
       </td>
       <td>
+      <td>TypeScript</td>
       Sleep
       </td>
     </tr>
@@ -542,6 +587,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       -
       </td>
+      <td>-</td>
     </tr>
    <tr>
       <td>17/05/2023</td>
@@ -551,6 +597,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       -
       </td>
+      <td>-</td>
     </tr>
     <tr>
       <td>18/05/2023</td>
@@ -560,6 +607,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Spiral Matrix
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>19/05/2023</td>
@@ -569,6 +617,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Three Divisors
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>20/05/2023</td>
@@ -582,6 +631,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Separate the Digits in an Array
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>21/05/2023</td>
@@ -595,6 +645,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Merge Two Strings Alternately
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>22/05/2023</td>
@@ -608,6 +659,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Find the Index of the First Occurance in a String
       </td>
+      <td>Java</td>
     </tr>
     <tr>
       <td>23/05/2023</td>
@@ -617,6 +669,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Add Two Numbers
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>24/05/2023</td>
@@ -626,6 +679,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Pow(x,n)
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>25/05/2023</td>
@@ -639,6 +693,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Plus One
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>26/05/2023</td>
@@ -652,6 +707,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Can Make Arithmatic Progression from Sequence
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>27/05/2023</td>
@@ -665,6 +721,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Monotonic Array
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>28/05/2023</td>
@@ -686,6 +743,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <br>
       Length of Last Word
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>29/05/2023</td>
@@ -695,6 +753,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Robot Return to Origin
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>30/05/2023</td>
@@ -704,6 +763,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       -
       </td>
+      <td>-</td>
     </tr>
     <tr>
       <td>31/05/2023</td>
@@ -713,6 +773,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Find Winner on a Tic Tac Toe Game
       </td>
+      <td>Rust</td>
     </tr>
 </table>
 </details>
@@ -724,6 +785,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <th>Date</th>
       <th>Question Numbers</th>
       <th>Question Names</th>
+      <th>Languages</th>
     </tr>
     <tr>
       <td>01/06/2023</td>
@@ -733,6 +795,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Repeated Substring Pattern
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>02/06/2023</td>
@@ -742,6 +805,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Greatest Common Divisor of Strings
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>03/06/2023</td>
@@ -751,6 +815,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Kids With the Greatest Number of Candies
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>04/06/2023</td>
@@ -760,6 +825,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Reverse Vowels of a String
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>05/06/2023</td>
@@ -769,6 +835,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Reverse Words in a String
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>06/06/2023</td>
@@ -778,6 +845,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Is Subsequence
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>07/06/2023</td>
@@ -787,6 +855,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Is Subsequence
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>08/06/2023</td>
@@ -796,6 +865,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Find the Highest Altitude
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>09/06/2023</td>
@@ -805,6 +875,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Lemonade Change
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>10/06/2023</td>
@@ -814,6 +885,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Set Matrix Zeroes
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>11/06/2023</td>
@@ -823,6 +895,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Add Two Numbers II
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>12/06/2023</td>
@@ -832,6 +905,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Product of an Array Except Self
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>12/06/2023</td>
@@ -841,17 +915,21 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Product of an Array Except Self
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>13/06/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2352.rs">Leetcode#2352</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/288.java">Leetcode#288</a> 
       </td>
       <td>
       Equal Row and Column Pairs
+      <br>
       Summary Ranges
       </td>
+      <td>Rust, Java</td>
     </tr>
     <tr>
       <td>14/06/2023</td>
@@ -861,6 +939,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Minimum Absolute Difference in BST
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>15/06/2023</td>
@@ -870,6 +949,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Maximum Level Sum of Binary Tree
       </td>
+      <td>C++</td>
     </tr>
     <tr>
       <td>16/06/2023</td>
@@ -879,6 +959,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Can Place Flowers
       </td>
+      <td>Java</td>
     </tr>
     <tr>
       <td>17/06/2023</td>
@@ -888,6 +969,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       -
       </td>
+      <td>-</td>
     </tr>
     <tr>
       <td>18/06/2023</td>
@@ -897,6 +979,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Can Place Flowers
       </td>
+      <td>Java</td>
     </tr>
     <tr>
       <td>19/06/2023</td>
@@ -906,6 +989,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Find Pivot Index
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>20/06/2023</td>
@@ -915,6 +999,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       -
       </td>
+      <td>-</td>
     </tr>
     <tr>
       <td>21/06/2023</td>
@@ -924,6 +1009,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       -
       </td>
+      <td>-</td>
     </tr>
     <tr>
       <td>22/06/2023</td>
@@ -933,6 +1019,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Find the Difference of Two Arrays
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>23/06/2023</td>
@@ -942,6 +1029,7 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Increasing Triplet Subsequence
       </td>
+      <td>Rust</td>
     </tr>
     <tr>
       <td>24/06/2023</td>
@@ -951,5 +1039,6 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>
       Container With Most Water
       </td>
+      <td>Java</td>
     </tr>
 </details>
