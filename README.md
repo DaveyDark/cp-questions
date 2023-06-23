@@ -574,10 +574,12 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>20/05/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1859.rs">Leetcode#1859</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2553.rs">Leetcode#2553</a> 
       </td>
       <td>
       Sorting The Sentence
+      <br>
       Separate the Digits in an Array
       </td>
     </tr>
@@ -585,10 +587,12 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>21/05/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/389.java">Leetcode#389</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1768.rs">Leetcode#1768</a> 
       </td>
       <td>
       Find the Difference
+      <br>
       Merge Two Strings Alternately
       </td>
     </tr>
@@ -596,10 +600,12 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>22/05/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1041.java">Leetcode#1041</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/28.java">Leetcode#28</a> 
       </td>
       <td>
       Robot Bounded in Circle
+      <br>
       Find the Index of the First Occurance in a String
       </td>
     </tr>
@@ -625,10 +631,12 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>25/05/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1572.rs">Leetcode#1572</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/66.rs">Leetcode#66</a> 
       </td>
       <td>
       Matrix Diagonal Sum
+      <br>
       Plus One
       </td>
     </tr>
@@ -636,10 +644,12 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>26/05/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1822.rs">Leetcode#1822</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1502.rs">Leetcode#1502</a> 
       </td>
       <td>
       Sign of the Product of an Array
+      <br>
       Can Make Arithmatic Progression from Sequence
       </td>
     </tr>
@@ -647,10 +657,12 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>27/05/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/13.rs">Leetcode#13</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/896.rs">Leetcode#896</a> 
       </td>
       <td>
       Roman to Integer
+      <br>
       Monotonic Array
       </td>
     </tr>
@@ -658,14 +670,20 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>28/05/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/682.rs">Leetcode#682</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1672.rs">Leetcode#1672</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/709.rs">Leetcode#709</a> 
+      <br>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/58.rs">Leetcode#58</a> 
       </td>
       <td>
       Baseball Game
+      <br>
       Richest Customer Wealth
+      <br>
       To Lower Case
+      <br>
       Length of Last Word
       </td>
     </tr>
