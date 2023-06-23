@@ -699,8 +699,8 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
 </table>
 </details>
 
-<summary><h2>June 2023</h2></summary>
 <details>
+<summary><h2>June 2023</h2></summary>
 <table>
     <tr>
       <th>Date</th>
