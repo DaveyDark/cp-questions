@@ -5,9 +5,9 @@ Given an integer array nums, return true if there exists a triple of indices (i,
 
 // Approach:
 // If we are moving from the start to end of the vector, every new index will be greater than any index we have already traversed
-// So we will keep track of the least index we have traversed in first
-// And also the second least index in second
-// then lastly in the iteration we check if the last number is bigger than second, which means it's greater than first too
+// So we will keep track of the least number's index we have traversed in first
+// And also the second least number's index in second
+// then lastly in the iteration we check if the current number is bigger than second, which means it's greater than first too
 // and since it came later than first and second, it's index must also be greater, so we return true in this case
 //
 // Otherwise we jsut return false if we reach out of the loop
