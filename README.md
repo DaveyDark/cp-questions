@@ -696,6 +696,17 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       Find Winner on a Tic Tac Toe Game
       </td>
     </tr>
+</table>
+</details>
+
+<summary><h2>June 2023</h2></summary>
+<details>
+<table>
+    <tr>
+      <th>Date</th>
+      <th>Question Numbers</th>
+      <th>Question Names</th>
+    </tr>
     <tr>
       <td>01/06/2023</td>
       <td>
