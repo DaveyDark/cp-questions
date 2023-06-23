@@ -552,6 +552,375 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       -
       </td>
     </tr>
-	
+    <tr>
+      <td>18/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/54.rs">Leetcode#54</a> 
+      </td>
+      <td>
+      Spiral Matrix
+      </td>
+    </tr>
+    <tr>
+      <td>19/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1952.rs">Leetcode#1952</a> 
+      </td>
+      <td>
+      Three Divisors
+      </td>
+    </tr>
+    <tr>
+      <td>20/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1859.rs">Leetcode#1859</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2553.rs">Leetcode#2553</a> 
+      </td>
+      <td>
+      Sorting The Sentence
+      Separate the Digits in an Array
+      </td>
+    </tr>
+    <tr>
+      <td>21/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/389.java">Leetcode#389</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1768.rs">Leetcode#1768</a> 
+      </td>
+      <td>
+      Find the Difference
+      Merge Two Strings Alternately
+      </td>
+    </tr>
+    <tr>
+      <td>22/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1041.java">Leetcode#1041</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/28.java">Leetcode#28</a> 
+      </td>
+      <td>
+      Robot Bounded in Circle
+      Find the Index of the First Occurance in a String
+      </td>
+    </tr>
+    <tr>
+      <td>23/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2.cpp">Leetcode#2</a> 
+      </td>
+      <td>
+      Add Two Numbers
+      </td>
+    </tr>
+    <tr>
+      <td>24/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/50.rs">Leetcode#50</a> 
+      </td>
+      <td>
+      Pow(x,n)
+      </td>
+    </tr>
+    <tr>
+      <td>25/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1572.rs">Leetcode#1572</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/66.rs">Leetcode#66</a> 
+      </td>
+      <td>
+      Matrix Diagonal Sum
+      Plus One
+      </td>
+    </tr>
+    <tr>
+      <td>26/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1822.rs">Leetcode#1822</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1502.rs">Leetcode#1502</a> 
+      </td>
+      <td>
+      Sign of the Product of an Array
+      Can Make Arithmatic Progression from Sequence
+      </td>
+    </tr>
+    <tr>
+      <td>27/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/13.rs">Leetcode#13</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/896.rs">Leetcode#896</a> 
+      </td>
+      <td>
+      Roman to Integer
+      Monotonic Array
+      </td>
+    </tr>
+    <tr>
+      <td>28/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/682.rs">Leetcode#682</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1672.rs">Leetcode#1672</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/709.rs">Leetcode#709</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/58.rs">Leetcode#58</a> 
+      </td>
+      <td>
+      Baseball Game
+      Richest Customer Wealth
+      To Lower Case
+      Length of Last Word
+      </td>
+    </tr>
+    <tr>
+      <td>29/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/657.rs">Leetcode#657</a> 
+      </td>
+      <td>
+      Robot Return to Origin
+      </td>
+    </tr>
+    <tr>
+      <td>30/05/2023</td>
+      <td>
+      - 
+      </td>
+      <td>
+      -
+      </td>
+    </tr>
+    <tr>
+      <td>31/05/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1275.rs">Leetcode#1275</a> 
+      </td>
+      <td>
+      Find Winner on a Tic Tac Toe Game
+      </td>
+    </tr>
+    <tr>
+      <td>01/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/459.rs">Leetcode#459</a> 
+      </td>
+      <td>
+      Repeated Substring Pattern
+      </td>
+    </tr>
+    <tr>
+      <td>02/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1071.rs">Leetcode#1071</a> 
+      </td>
+      <td>
+      Greatest Common Divisor of Strings
+      </td>
+    </tr>
+    <tr>
+      <td>03/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1431.rs">Leetcode#1431</a> 
+      </td>
+      <td>
+      Kids With the Greatest Number of Candies
+      </td>
+    </tr>
+    <tr>
+      <td>04/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/345.rs">Leetcode#345</a> 
+      </td>
+      <td>
+      Reverse Vowels of a String
+      </td>
+    </tr>
+    <tr>
+      <td>05/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/151.rs">Leetcode#151</a> 
+      </td>
+      <td>
+      Reverse Words in a String
+      </td>
+    </tr>
+    <tr>
+      <td>06/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/392.rs">Leetcode#392</a> 
+      </td>
+      <td>
+      Is Subsequence
+      </td>
+    </tr>
+    <tr>
+      <td>07/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/643.rs">Leetcode#643</a> 
+      </td>
+      <td>
+      Is Subsequence
+      </td>
+    </tr>
+    <tr>
+      <td>08/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1732.rs">Leetcode#1732</a> 
+      </td>
+      <td>
+      Find the Highest Altitude
+      </td>
+    </tr>
+    <tr>
+      <td>09/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/860.rs">Leetcode#860</a> 
+      </td>
+      <td>
+      Lemonade Change
+      </td>
+    </tr>
+    <tr>
+      <td>10/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/73.rs">Leetcode#73</a> 
+      </td>
+      <td>
+      Set Matrix Zeroes
+      </td>
+    </tr>
+    <tr>
+      <td>11/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/445.cpp">Leetcode#445</a> 
+      </td>
+      <td>
+      Add Two Numbers II
+      </td>
+    </tr>
+    <tr>
+      <td>12/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/238.rs">Leetcode#238</a> 
+      </td>
+      <td>
+      Product of an Array Except Self
+      </td>
+    </tr>
+    <tr>
+      <td>12/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/238.rs">Leetcode#238</a> 
+      </td>
+      <td>
+      Product of an Array Except Self
+      </td>
+    </tr>
+    <tr>
+      <td>13/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2352.rs">Leetcode#2352</a> 
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/288.java">Leetcode#288</a> 
+      </td>
+      <td>
+      Equal Row and Column Pairs
+      Summary Ranges
+      </td>
+    </tr>
+    <tr>
+      <td>14/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/530.cpp">Leetcode#530</a> 
+      </td>
+      <td>
+      Minimum Absolute Difference in BST
+      </td>
+    </tr>
+    <tr>
+      <td>15/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1161.cpp">Leetcode#1161</a> 
+      </td>
+      <td>
+      Maximum Level Sum of Binary Tree
+      </td>
+    </tr>
+    <tr>
+      <td>16/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/605.java">Leetcode#605</a> 
+      </td>
+      <td>
+      Can Place Flowers
+      </td>
+    </tr>
+    <tr>
+      <td>17/06/2023</td>
+      <td>
+      - 
+      </td>
+      <td>
+      -
+      </td>
+    </tr>
+    <tr>
+      <td>18/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/605.java">Leetcode#605</a> 
+      </td>
+      <td>
+      Can Place Flowers
+      </td>
+    </tr>
+    <tr>
+      <td>19/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/724.rs">Leetcode#724</a> 
+      </td>
+      <td>
+      Find Pivot Index
+      </td>
+    </tr>
+    <tr>
+      <td>20/06/2023</td>
+      <td>
+      - 
+      </td>
+      <td>
+      -
+      </td>
+    </tr>
+    <tr>
+      <td>21/06/2023</td>
+      <td>
+      - 
+      </td>
+      <td>
+      -
+      </td>
+    </tr>
+    <tr>
+      <td>22/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2215.rs">Leetcode#2215</a> 
+      </td>
+      <td>
+      Find the Difference of Two Arrays
+      </td>
+    </tr>
+    <tr>
+      <td>23/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/334.rs">Leetcode#334</a> 
+      </td>
+      <td>
+      Increasing Triplet Subsequence
+      </td>
+    </tr>
+    <tr>
+      <td>24/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/11.java">Leetcode#11</a> 
+      </td>
+      <td>
+      Container With Most Water
+      </td>
+    </tr>
 </details>
-
