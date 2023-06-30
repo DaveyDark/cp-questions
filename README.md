@@ -1035,9 +1035,81 @@ This repo contains the solutions to various CP(competetive progrogramming) quest
       <td>24/06/2023</td>
       <td>
       <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/11.java">Leetcode#11</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1679.java">Leetcode#1679</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1004.java">Leetcode#1004</a> 
+      <br>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1493.java">Leetcode#1493</a> 
       </td>
       <td>
       Container With Most Water
+      <br>
+      Max Number of K-Sum Pairs
+      <br>
+      Max Consecutive Ones III
+      <br>
+      Longest Subarray of 1's After Deleting One Element
+      </td>
+      <td>Java</td>
+    </tr>
+    <tr>
+      <td>25/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/2390.rs">Leetcode#2390</a> 
+      </td>
+      <td>
+      Removing Stars From a String
+      </td>
+      <td>Rust</td>
+    </tr>
+    <tr>
+      <td>26/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1207.rs">Leetcode#1207</a> 
+      </td>
+      <td>
+      Unique Number of Occurances
+      </td>
+      <td>Rust</td>
+    </tr>
+    <tr>
+      <td>27/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/933.rs">Leetcode#933</a> 
+      </td>
+      <td>
+      Number of Recent Calls
+      </td>
+      <td>Rust</td>
+    </tr>
+    <tr>
+      <td>28/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1791.rs">Leetcode#1791</a> 
+      </td>
+      <td>
+      Find Center of Graph
+      </td>
+      <td>Rust</td>
+    </tr>
+    <tr>
+      <td>29/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/1351.rs">Leetcode#1351</a> 
+      </td>
+      <td>
+      Count Negative Numbers in a Sorted Matrix
+      </td>
+      <td>Rust</td>
+    </tr>
+    <tr>
+      <td>30/06/2023</td>
+      <td>
+      <a href="https://github.com/DaveyDark/cp-questions/blob/master/leetcode/8.java">Leetcode#8</a> 
+      </td>
+      <td>
+      String to Integer(atoi)
       </td>
       <td>Java</td>
     </tr>
