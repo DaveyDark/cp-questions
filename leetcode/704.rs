@@ -20,7 +20,7 @@ impl Solution {
 
 
         loop {
-            mid = (left+right)/2;
+            mid = left + (left - right) / 2 ;
             println!("{} + {} / 2 = {}",left,right,mid);
             if nums[mid as usize] == target {
                 return mid
