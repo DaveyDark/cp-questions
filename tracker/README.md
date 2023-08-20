@@ -2,6 +2,7 @@
 Small utility script I wrote for maintaining the log for this repo. It maintains the log in a sqlite file and can convert it into html/md and vice versa
 
 ## Build
+You will need prettier installed from your package manager to use this
 To build the binary, use
 ```
 cargo build --release
