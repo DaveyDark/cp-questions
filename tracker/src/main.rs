@@ -153,6 +153,7 @@ fn export_html() -> Result<(),Error> {
                 "C++" => "cpp",
                 "TypeScript" => "ts",
                 "Java" => "java",
+                "SQL" => "sql",
                 _ => ""
             };
             links += format!("<a href='{}'>{}</a><br>", link, row[1]).as_str();
