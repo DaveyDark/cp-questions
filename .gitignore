@@ -1,5 +1,5 @@
-./tracker/target
-./cp-tracker
-./log.db
-./table.html
-./README.html
+tracker/target
+cp-tracker
+log.db
+table.html
+README.html
