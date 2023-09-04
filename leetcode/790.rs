@@ -9,7 +9,7 @@ exactly one of the tilings has both squares occupied by a tile.
 */
 
 // Approach:
-// The dp pattern observed for this is that dp[i] is the sum of dp[i-2]*2 + dp[i-3]
+// The dp pattern observed for this is that dp[i] is the sum of dp[i-1]*2 + dp[i-3]
 // 1) Make a dp array of size n or 2, whichever is larger
 // 2) Init the first two indices with 1 and 2
 // 3) Go thorugh the rest of the indicies and use the pattern to assign values
