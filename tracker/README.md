@@ -21,6 +21,6 @@ cargo build --release
   A series of prompts will follow to enter the details for the entry
 - To export data from the database to an html and md file
   ```
-  cp-tracker import
+  cp-tracker export
   ```
   Note: It uses the file specified as OUTFILE in main.rs. Also the md file is prefixed with the PREFIX specified in main.rs
